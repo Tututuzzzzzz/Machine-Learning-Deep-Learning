@@ -78,6 +78,7 @@ Máy tính chỉ xử lý dữ liệu số (numbers), nên cần chuyển đổi
   - Flatten: Chuyển feature map thành vector 1D, ví dụ: $[0.3, 0.7, -0.1, ...]$.
 - **Âm Thanh**: Spectrogram $\rightarrow$ Vector qua Mel-Frequency Cepstral Coefficients (MFCC).
 
+
 ## Mạng Nơ-Ron Cơ Bản
 
 Mạng nơ-ron nhân tạo (Neural Network) mô phỏng não bộ, gồm nhiều lớp nơ-ron kết nối.
